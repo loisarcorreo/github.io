@@ -1,66 +1,57 @@
 # cmi22
 
-## (Nombre del proyecto)
+## Macchiato
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Macchiato
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Luciana Lois Araujo
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Se trata de una historia interactiva acerca de la crisis creativa de una escritora. Tiene lugar en una cafetería a la que acuden distintos personajes, cada uno con una circunstancia personal que influirá en el destino de la protagonista.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:** Novela
+**Logotipo** : 
+![título](https://user-images.githubusercontent.com/106830319/172342449-fb1f2dbe-dc47-4f47-bf8b-d0e4d8c71645.png)
+El título hace referencia al café que consume la protagonista. Contiene una mancha roja que alude a la sangre derramada con la muerte de los personajes.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
-(insertar imágenes a resolucion de 100px alto)
-
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 1080x720pp 
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 73MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 8/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** 
 
-- Github:
-- Twitter
-- Instagram
+- Github.
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
+La trama se desarrolla en torno a tres capítulos, como si se tratara de género literario. Todos ellos tienen una presentación y llevan al usuario a un plano general de la cafetería en el que se sitúan los personajes. A través de hacer clic en estos, se irá accediendo a la historia personal de cada uno y a diversas decisiones que determinarán un final u otro.
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![story2](https://user-images.githubusercontent.com/106830319/172345092-02f6eac0-377a-4bdc-bdc1-ed4cab7b3b87.png)
+![story3](https://user-images.githubusercontent.com/106830319/172345095-828aa586-88a6-469e-9f45-001b30bd262c.png)
+![storyboard1](https://user-images.githubusercontent.com/106830319/172345107-4ed779f1-ff35-4385-a71e-5c470b879776.png)
 
 
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
-
+![esquema de navegación](https://user-images.githubusercontent.com/106830319/172345201-4d0e1591-77d2-4827-9d67-03ff6c7053eb.JPG)
 
 # 3. Metodología
 
@@ -70,22 +61,21 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- La estética del proyecto fue inspirada por el comic interactivo "The Boat"  https://www.sbs.com.au/theboat/
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque adentra al usuario en una historia, permitiéndole ser partícipe en su desarrollo. 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a un público joven y adulto (+13).
 
 
 
@@ -93,27 +83,23 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
+- Juego/ Interacción: integrados en puntos específicos de la historia, dándole énfasis a distintas acciones o emociones (como la frustración, la indecisión o irse de la cafetería).
+- Video: se ha dispuesto en una escena independiente a la que se puede acceder a través del botón de "configuración", en el menú. 
 - Menús y elementos de navegación (botones)
-- etc.
+- Configuración de música: incluido en la configuración, junto con la regulación del volumen y la elección de la canción.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+En ocasiones en el archivo exportado había pequeños fallos (por ejemplo, no se cargaban los botones de la pantalla de "extras", "personajes" y "bocetos") que no aparecen en el proyecto .hani. Además, se debió eliminar alguna interacción porque perjudicaba el orden de las escenas. También hay escenas que se reproducen con excesiva lentitud. Estos problemas se han intentado corregir en la mayor medida posible.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
+Quizás el proyecto que se planteó era demasiado ambicioso y podría haberse simplificado, incluyendo más interacción y claridad en la trama. También creo que se debe tener en cuenta que mucho tiempo invertido en el trabajo se empleó para solucionar errores que daba el software sin motivo aparente. Si se desarrolla un proyecto similar en un futuro, se utilizará un programa con un mejor funcionamiento y que además posea cierto reconocimiento. A pesar de estos incovenientes, el resultado ha sido satisfactorio.
 
 
 
@@ -121,25 +107,20 @@ Este  proyecto es interesante porque ...
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: "La lluvia abre la ventana" Alberto Iglesias y  "The boys" Johnny Greenwood   
+* Tipografía: Courier New
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Adobe Photoshop
+- Gimp
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![88x31](https://user-images.githubusercontent.com/106830319/172352031-5249ecb5-61de-481f-81c9-423c6ed022d8.png)
 
-https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022
