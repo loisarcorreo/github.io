@@ -9,7 +9,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Macchiato
 
-**Web:**   (url github.io)
+**Web:**  https://loisar.github.io/
 
 **Autor:**  Luciana Lois Araujo
 
@@ -23,7 +23,7 @@ El título hace referencia al café que consume la protagonista. Contiene una ma
 
 **Resolución:** 1080x720pp 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome, Opera, Microsoft Edge
 
 **Tamaño proyecto:** 73MB 
 
@@ -33,7 +33,8 @@ El título hace referencia al café que consume la protagonista. Contiene una ma
 
 **Medios** 
 
-- Github.
+- Github: https://github.com/loisarcorreo
+- Instagram: https://www.instagram.com/_chiflete/
 
 
 # 2. Memoria del proyecto 
@@ -115,7 +116,7 @@ Quizás el proyecto que se planteó era demasiado ambicioso y podría haberse si
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- Adobe Photoshop
+- Adobe Photoshop CS6
 - Gimp
 
 
