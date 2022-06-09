@@ -9,7 +9,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Macchiato
 
-**Web:**  https://loisar.github.io/
+**Web:**  https://github.com/loisarcorreo/loisar.github.io
 
 **Autor:**  Luciana Lois Araujo
 
